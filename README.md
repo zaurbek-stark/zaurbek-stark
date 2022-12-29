@@ -1,5 +1,3 @@
-### ✊
-
 I like to hack things together.
 
 Currently building The Last CodeBender Nation.
@@ -18,6 +16,6 @@ Currently building The Last CodeBender Nation.
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zaurbek-stark&count_private=true&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaurbek-stark&theme=dark&layout=compact&langs_count=6" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zaurbek-stark&count_private=true&show_icons=true&theme=dark" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaurbek-stark&theme=dark&layout=compact&langs_count=6" />
 </div>
