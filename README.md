@@ -12,7 +12,7 @@ Currently building The Last CodeBender Nation.
     He only uses his ability for the sake of mankind.
 
 📫 How to reach me: [@ZaurbekStark](https://twitter.com/ZaurbekStark)
-⚡ YT Channel: www.youtube.com/@ZaurbekStark
+⚡ YT Channel: www.youtube.com/@TheLastCodebender
 
 
 <div align="center">
