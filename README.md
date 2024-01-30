@@ -1,6 +1,7 @@
 ### I like to hack things together
 
-Currently building The Last CodeBender Nation.
+Currently building The Last CodeBender Nation. 
+(PS: this is my secondary github account, non work related)
 
 ### code·bend·er: [Definition]
 
